@@ -2,6 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/sch144/NitroPwn)
 ![Lines of code](https://img.shields.io/tokei/lines/github/sch144/NitroPwn)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sch144/NitroPwn)
+<br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <br>
