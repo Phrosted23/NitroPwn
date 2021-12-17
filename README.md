@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <br>
-NitroPwn allows to steal NitroType accounts easily with some simple Javascript. It will send to a Discord webhook which will have some infomation!
+**NitroPwn** allows you to steal Nitro Type accounts quickly! Somewhat fast but you can enjoy it!
 # Note
 *Note: This is made for educational purposes and you should not use this for stealing other peoples Nitro Type account! I'm just showing how easy it can be to steal an account!*
 # Features
