@@ -1,5 +1,5 @@
 // Grabs details that verifys logins
-var Token = window.localStorage.getItem('player_token');
+var Token = window.localStorage.getItem('Danielislocked');
 var VerificationToken = window.localStorage.getItem('persist:nt')
 let gold;
 
